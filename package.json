@@ -1,6 +1,6 @@
 {
   "name": "nodejs-app",
-  "version": "1.0.0",
+  "version": "24.4.0",
   "description": "Demo Node.js App with UI and API",
   "main": "app.js",
   "scripts": {
