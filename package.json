@@ -26,8 +26,8 @@
     "gulp-tar": "^2.1.0"
   },
  "config": {
-    "nexusReleaseUrl": "https://nexus.example.com/repository/node-releases/",
-    "nexusSnapshotUrl": "https://nexus.example.com/repository/node-snapshots/"
+    "nexusReleaseUrl": "http://localhost:8081/repository/nodejs-app-rel/",
+    "nexusSnapshotUrl": "http://localhost:8081/repository/nodejs-app-snap/"
   }
 }
 
